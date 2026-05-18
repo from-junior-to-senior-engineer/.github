@@ -13,6 +13,7 @@ Real work is different.
 
 It's an undocumented legacy system that nobody wants to touch.
 It's an architecture decision you have to justify under pressure.
+It's a pull request to review without a safety net.
 It's an interview question you've never faced in a real context.
 
 **This gap between training and reality is what we close here.**
@@ -93,11 +94,11 @@ That reasoning is what we train here.
 
 ## Contributing
 
-These projects are open to contributions.
-If you've used a repo and want to improve the documentation,
-add a user story, or propose a new simulated project — open an issue or a PR.
-
-See `CONTRIBUTING.md` for details.
+> These projects are open to contributions on documentation, user stories, and project structure. **Source code is intentionally kept incomplete — do not submit PRs that modify it.**
+>
+> If you've used a repo and want to improve the documentation, add a user story, or propose a new simulated project — open an issue or a PR.
+>
+> See CONTRIBUTING.md for details.
 
 ---
 
