@@ -1,3 +1,7 @@
+> **Do not open pull requests that modify source code.**
+> The code in each repo is intentionally left incomplete — it is the starting point for people who fork and practice on their own.
+> Contributions are welcome on documentation, user stories, and project structure only.
+
 # Contributing to From Junior to Senior Engineer
 
 Thank you for considering a contribution.
