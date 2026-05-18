@@ -94,11 +94,11 @@ That reasoning is what we train here.
 
 ## Contributing
 
-These projects are open to contributions.
-If you've used a repo and want to improve the documentation,
-add a user story, or propose a new simulated project — open an issue or a PR.
-
-See `CONTRIBUTING.md` for details.
+> These projects are open to contributions on documentation, user stories, and project structure. **Source code is intentionally kept incomplete — do not submit PRs that modify it.**
+>
+> If you've used a repo and want to improve the documentation, add a user story, or propose a new simulated project — open an issue or a PR.
+>
+> See CONTRIBUTING.md for details.
 
 ---
 
