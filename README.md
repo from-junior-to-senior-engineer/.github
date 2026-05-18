@@ -1,4 +1,3 @@
-```markdown
 # From Junior to Senior Engineer
 
 > Real-world projects to learn how to think like an engineer, not like a student.
@@ -14,7 +13,6 @@ Real work is different.
 
 It's an undocumented legacy system that nobody wants to touch.
 It's an architecture decision you have to justify under pressure.
-It's a pull request to review without a safety net.
 It's an interview question you've never faced in a real context.
 
 **This gap between training and reality is what we close here.**
@@ -60,16 +58,13 @@ It's to train the thinking process that leads to a good answer.
 
 Each repo follows the same structure:
 
-
 ```
-
 README.md                   → context, stack, quick start
 docs/ARCHITECTURE.md        → documented technical decisions
 docs/BACKLOG.md             → user stories to implement
 docs/LEARNING_GUIDE.md      → structured training path
 docs/REASONING_FRAMEWORK.md → interview-style Q&A
 docs/LEARNING_LOG.md        → your personal progress journal
-
 ```
 
 **Recommended approach:**
@@ -84,12 +79,9 @@ docs/LEARNING_LOG.md        → your personal progress journal
 
 ## Philosophy
 
-
 ```
-
 A junior who reasons clearly
 outperforms a senior who just recites.
-
 ```
 
 Technical confidence doesn't come from accumulated experience alone.
@@ -110,5 +102,3 @@ See `CONTRIBUTING.md` for details.
 ---
 
 *Community-maintained. Not affiliated with any company.*
-
-```
